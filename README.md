@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://wallpaper-house.com/data/out/10/wallpaper2you_431791.jpg" width="100%" />
+</p>
 
-<!--
-**erik-arne/erik-arne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧠 Hi, I’m @erik-arne
 
-Here are some ideas to get you started:
+I'm a research-minded developer focused on Ethereum and system design.  
+I study how code shapes coordination — and how incentives drive trust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Interests
+
+- Ethereum & protocol research  
+- Smart contracts, L2s, and governance  
+- Systems thinking & abstraction  
+- Clean design patterns in JS/TS
+
+---
+
+## 🧪 Current Focus
+
+- EVM architecture & Solidity  
+- Onchain coordination mechanisms  
+- Design of decentralized systems
+
+
